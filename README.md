@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hello, my name is Amit Pandey. I have recently completed my Bachelor of Computer Applications. I’m passionate about backend development and have hands-on experience working with technologies like Node.js, Express.js, and MySQL/MongoDB.<br><br>During my academic projects, I’ve worked on a POS system where I handled user authentication, order and inventory management, and generating customer bills in PDF format. I’m comfortable building RESTful APIs and testing them using tools like Postman.<br><br><br>Apart from coding, I enjoy learning new technologies and solving real-world problems. I’m a quick learner, and I always focus on writing clean and efficient code. I’m currently looking for a backend development role where I can apply my skills and grow further in the field.
+I am Amit Pandey, a BCA graduate with 6 months of hands-on experience as a MERN Stack Full Stack Developer. I have worked with React, Next.js, Node.js, Express.js, MySQL, and MongoDB, focusing on building scalable applications and RESTful APIs.
+I am passionate about writing clean and efficient code, quick to learn new technologies, and eager to contribute to impactful real-world projects. I am currently seeking a Full Stack Developer role where I can apply my skills, grow professionally, and add value to the team.
+Apart from coding, I enjoy learning new technologies and solving real-world problems. I’m a quick learner, and I always focus on writing clean and efficient code. I’m currently looking for a backend development role where I can apply my skills and grow further in the field.
 
 
 ## 🌐 Socials:
